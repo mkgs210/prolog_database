@@ -9,6 +9,6 @@
 ![image](https://user-images.githubusercontent.com/78417431/216090870-13bbea5a-5ee4-431a-85a1-f6ff589db586.png)
 
 
-Весь функционал описан на Habr по ссылке
+Весь функционал описан на Habr по [ссылке](https://habr.com/ru/post/716012/)
 
 Другие примеры кода [здесь](https://github.com/KirillTaE/Dynamic_DataBase_on_TurboProlog)
